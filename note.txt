@@ -1,0 +1,7 @@
+note:
+r1=run1
+s=self
+o=other
+a=audlt
+c=child
+t=total
